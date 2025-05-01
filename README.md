@@ -106,5 +106,5 @@ Pada bagian Tugas, ditambahkan 2 fitur terakhir yakni Delete dan Edit, dengan di
 ##### Notifikasi Berhasil Dihapus  
 ![Tugas - Deleting Success](screenshot/tugas-deleting-success.png)
 
-Tampilan Setelah Data Dihapus  
-##### ![Tugas - Deleting After](screenshot/tugas-deleting-after.png)
+##### Tampilan Setelah Data Dihapus  
+![Tugas - Deleting After](screenshot/tugas-deleting-after.png)
