@@ -85,7 +85,7 @@ Pada Latihan 7, ditambahkan fitur baru yaitu Add Book dimana kita dapat menambah
 ### Tugas </summary>
 Pada bagian Tugas, ditambahkan 2 fitur terakhir yakni Delete dan Edit, dengan ditambahkannya 2 fungsi ini kita dapat melakukan GET, POST, PUT, dan DELETE, melalui tampilan tanpa menggunakan Postman 
 
-#### 🔼 Menambahkan Data
+#### Menambahkan Data
 ##### Tampilan Form Input  
 ![Tugas - Adding](screenshot/tugas-adding.png)
 
